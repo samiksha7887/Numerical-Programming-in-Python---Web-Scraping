@@ -1,24 +1,24 @@
 # Numerical-Programming-in-Python---Web-Scraping
 
-Overview
+**OVERVIEW**
 
 This project involves web scraping data from the JustWatch website to gather comprehensive information about movies and TV shows. The scraped data includes the following details:
 
-Movie Data
+**Movie Data**
 
-Movie Title
+- Movie Title
 
-Release Year
+* Release Year
 
-Genre
++ Genre
 
-IMDb Rating
+- IMDb Rating
 
-Streaming Services Availability (Netflix, Amazon Prime, Hulu, etc.)
+* Streaming Services Availability (Netflix, Amazon Prime, Hulu, etc.)
 
-URL to the Movie Page on JustWatch
++ URL to the Movie Page on JustWatch
 
-TV Show Data
+**TV Show Data**
 
 *TV Show Title
 
